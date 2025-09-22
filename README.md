@@ -3,7 +3,7 @@
 **Get your project connected in seconds**  
 No configuration • No CLI • No environment variables • Just works
 
-Plugged automatically sets up secure connections between your frontend and backend services.
+Plugged automatically sets up your backend by just merely clicking buttons and meeting a fully functional boilerplate.
 
 ---
 
